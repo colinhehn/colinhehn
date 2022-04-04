@@ -1,4 +1,4 @@
-Currently working on a startup company website, learning how to make said website, and learning TensorFlow.
+Currently working on a startup website MVP, reviewing C++, and learning TensorFlow.
 
 School exists too, S/O Data Structures.
 
