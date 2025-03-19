@@ -1,4 +1,6 @@
-writing music (kinda), learning neovim, getting into react native, yea yea yea u get the picture
+react native (still), nvim, bootstrap, deno, spotify api.
+
+i think that's everything we got going on besides music & design work!
 
 arch btw
 
