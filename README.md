@@ -8,9 +8,9 @@
 <p align=center>
   <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [colinhehn/ch_portfolio_2024](https://github.com/colinhehn/ch_portfolio_2024)<br>
-2. ⬆️ Pushed 1 commit(s) to [colinhehn/ch_portfolio_2024](https://github.com/colinhehn/ch_portfolio_2024)<br>
-3. ⬆️ Pushed 1 commit(s) to [colinhehn/ch_portfolio_2024](https://github.com/colinhehn/ch_portfolio_2024)<br>
-4. ⬆️ Pushed 1 commit(s) to [colinhehn/ch_portfolio_2024](https://github.com/colinhehn/ch_portfolio_2024)<br>
-5. ⬆️ Pushed 1 commit(s) to [colinhehn/colinhehn](https://github.com/colinhehn/colinhehn)<br>
+2. ⭐ Starred [SlimeKnights/TinkersConstruct](https://github.com/SlimeKnights/TinkersConstruct)<br>
+3. ⭐ Starred [CaffeineMC/sodium](https://github.com/CaffeineMC/sodium)<br>
+4. ⭐ Starred [mezz/JustEnoughItems](https://github.com/mezz/JustEnoughItems)<br>
+5. ⬆️ Pushed 1 commit(s) to [colinhehn/ch_portfolio_2024](https://github.com/colinhehn/ch_portfolio_2024)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
