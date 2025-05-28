@@ -7,10 +7,10 @@
 <h3 align=center>Recent Activity 🪴</h3>
 <p align=center>
   <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#4](https://github.com/colinhehn/ch_portfolio_2024/pull/4) in [colinhehn/ch_portfolio_2024](https://github.com/colinhehn/ch_portfolio_2024)<br>
+1. ⬆️ Pushed 1 commit(s) to [colinhehn/colinhehn](https://github.com/colinhehn/colinhehn)<br>
 2. ⬆️ Pushed 1 commit(s) to [colinhehn/ch_portfolio_2024](https://github.com/colinhehn/ch_portfolio_2024)<br>
-3. ⭐ Starred [SlimeKnights/TinkersConstruct](https://github.com/SlimeKnights/TinkersConstruct)<br>
-4. ⭐ Starred [CaffeineMC/sodium](https://github.com/CaffeineMC/sodium)<br>
-5. ⭐ Starred [mezz/JustEnoughItems](https://github.com/mezz/JustEnoughItems)<br>
+3. ✔️ Closed issue [#2](https://github.com/colinhehn/ch_portfolio_2024/issues/2) in [colinhehn/ch_portfolio_2024](https://github.com/colinhehn/ch_portfolio_2024)<br>
+4. ⬆️ Pushed 19 commit(s) to [colinhehn/ch_portfolio_2024](https://github.com/colinhehn/ch_portfolio_2024)<br>
+5. ✔️ Closed issue [#1](https://github.com/colinhehn/ch_portfolio_2024/issues/1) in [colinhehn/ch_portfolio_2024](https://github.com/colinhehn/ch_portfolio_2024)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
