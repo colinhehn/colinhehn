@@ -10,7 +10,7 @@
 1. ⬆️ Pushed 1 commit(s) to [colinhehn/ch_portfolio_2024](https://github.com/colinhehn/ch_portfolio_2024)<br>
 2. ⬆️ Pushed 1 commit(s) to [colinhehn/ch_portfolio_2024](https://github.com/colinhehn/ch_portfolio_2024)<br>
 3. ⬆️ Pushed 1 commit(s) to [colinhehn/ch_portfolio_2024](https://github.com/colinhehn/ch_portfolio_2024)<br>
-4. ⬆️ Pushed 1 commit(s) to [colinhehn/colinhehn](https://github.com/colinhehn/colinhehn)<br>
+4. ⬆️ Pushed 1 commit(s) to [colinhehn/ch_portfolio_2024](https://github.com/colinhehn/ch_portfolio_2024)<br>
 5. ⬆️ Pushed 1 commit(s) to [colinhehn/colinhehn](https://github.com/colinhehn/colinhehn)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
