@@ -7,10 +7,10 @@
 <h3 align=center>Recent Activity 🪴</h3>
 <p align=center>
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [colinhehn/colinhehn](https://github.com/colinhehn/colinhehn)<br>
-2. ⬆️ Pushed 1 commit(s) to [colinhehn/ch_portfolio_2024](https://github.com/colinhehn/ch_portfolio_2024)<br>
-3. ✔️ Closed issue [#2](https://github.com/colinhehn/ch_portfolio_2024/issues/2) in [colinhehn/ch_portfolio_2024](https://github.com/colinhehn/ch_portfolio_2024)<br>
-4. ⬆️ Pushed 19 commit(s) to [colinhehn/ch_portfolio_2024](https://github.com/colinhehn/ch_portfolio_2024)<br>
-5. ✔️ Closed issue [#1](https://github.com/colinhehn/ch_portfolio_2024/issues/1) in [colinhehn/ch_portfolio_2024](https://github.com/colinhehn/ch_portfolio_2024)<br>
+1. ⬆️ Pushed 2 commit(s) to [colinhehn/ch_portfolio_2024](https://github.com/colinhehn/ch_portfolio_2024)<br>
+2. 🎉 Merged PR [#6](https://github.com/colinhehn/ch_portfolio_2024/pull/6) in [colinhehn/ch_portfolio_2024](https://github.com/colinhehn/ch_portfolio_2024)<br>
+3. 💪 Opened PR [#6](https://github.com/colinhehn/ch_portfolio_2024/pull/6) in [colinhehn/ch_portfolio_2024](https://github.com/colinhehn/ch_portfolio_2024)<br>
+4. ❗️ Opened issue [#5](https://github.com/colinhehn/ch_portfolio_2024/issues/5) in [colinhehn/ch_portfolio_2024](https://github.com/colinhehn/ch_portfolio_2024)<br>
+5. ⬆️ Pushed 1 commit(s) to [colinhehn/colinhehn](https://github.com/colinhehn/colinhehn)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
