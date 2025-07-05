@@ -1,5 +1,5 @@
 <h3 align=center>Hey, this is where I program! 🐛</h3>
-<p align=center>Currently working on a flexible deep-work productivity app for mobile, learning nvim, and finding UX & Design practice wherever I can. I have a wack habit of making everything public at some point so stay tuned !</p>
+<p align=center>Currently working on a flexible deep-work productivity tool, making VS Code extensions, learning nvim (kinda), and finding UX & PD practice wherever I can. Not all of its public, but hopefully you'll see it soon enough!</p>
 <p align=center><img src="https://komarev.com/ghpvc/?username=colinhehn" /></p>
 
 <p align=center><img src="https://github-readme-streak-stats.herokuapp.com/?user=colinhehn&theme=ambient_gradient&hide_border=false" alt="Maaan this Streak widget isn't working again..."/></p>
