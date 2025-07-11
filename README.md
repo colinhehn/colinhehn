@@ -7,10 +7,10 @@
 <h3 align=center>Recent Activity 🪴</h3>
 <p align=center>
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [colinhehn/colinhehn](https://github.com/colinhehn/colinhehn)<br>
-2. ⭐ Starred [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets)<br>
-3. ⬆️ Pushed 1 commit(s) to [colinhehn/colinhehn](https://github.com/colinhehn/colinhehn)<br>
-4. ✌️ Released [v0.9999](https://github.com/colinhehn/ch_portfolio_2024/releases/tag/siteupload) in [colinhehn/ch_portfolio_2024](https://github.com/colinhehn/ch_portfolio_2024)<br>
-5. ✔️ Closed issue [#5](https://github.com/colinhehn/ch_portfolio_2024/issues/5) in [colinhehn/ch_portfolio_2024](https://github.com/colinhehn/ch_portfolio_2024)<br>
+1. ⭐ Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)<br>
+2. ⬆️ Pushed 1 commit(s) to [colinhehn/colinhehn](https://github.com/colinhehn/colinhehn)<br>
+3. ⭐ Starred [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets)<br>
+4. ⬆️ Pushed 1 commit(s) to [colinhehn/colinhehn](https://github.com/colinhehn/colinhehn)<br>
+5. ✌️ Released [v0.9999](https://github.com/colinhehn/ch_portfolio_2024/releases/tag/siteupload) in [colinhehn/ch_portfolio_2024](https://github.com/colinhehn/ch_portfolio_2024)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
