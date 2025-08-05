@@ -11,6 +11,5 @@
 2. ⭐ Starred [jake-lukasik/NASCAR-Race-Predictions](https://github.com/jake-lukasik/NASCAR-Race-Predictions)<br>
 3. ⬆️ Pushed 1 commit(s) to [colinhehn/colinhehn](https://github.com/colinhehn/colinhehn)<br>
 4. ⭐ Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)<br>
-5. ⬆️ Pushed 1 commit(s) to [colinhehn/colinhehn](https://github.com/colinhehn/colinhehn)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
