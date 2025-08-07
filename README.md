@@ -11,6 +11,6 @@
 2. ⭐ Starred [orangci/walls-catppuccin-mocha](https://github.com/orangci/walls-catppuccin-mocha)<br>
 3. ⭐ Starred [zhichaoh/catppuccin-wallpapers](https://github.com/zhichaoh/catppuccin-wallpapers)<br>
 4. ⭐ Starred [dharmx/walls](https://github.com/dharmx/walls)<br>
-5. ⭐ Starred [go-json-experiment/json](https://github.com/go-json-experiment/json)<br>
+5. ⭐ Starred [zen-browser/theme-store](https://github.com/zen-browser/theme-store)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
