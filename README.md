@@ -7,10 +7,10 @@
 <h3 align=center>Recent Activity 🪴</h3>
 <p align=center>
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dharmx/walls](https://github.com/dharmx/walls)<br>
-2. ⭐ Starred [go-json-experiment/json](https://github.com/go-json-experiment/json)<br>
-3. ⭐ Starred [jake-lukasik/NASCAR-Race-Predictions](https://github.com/jake-lukasik/NASCAR-Race-Predictions)<br>
-4. ⬆️ Pushed 1 commit(s) to [colinhehn/colinhehn](https://github.com/colinhehn/colinhehn)<br>
-5. ⭐ Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)<br>
+1. ⭐ Starred [jonsafari/mocp](https://github.com/jonsafari/mocp)<br>
+2. ⭐ Starred [orangci/walls-catppuccin-mocha](https://github.com/orangci/walls-catppuccin-mocha)<br>
+3. ⭐ Starred [zhichaoh/catppuccin-wallpapers](https://github.com/zhichaoh/catppuccin-wallpapers)<br>
+4. ⭐ Starred [dharmx/walls](https://github.com/dharmx/walls)<br>
+5. ⭐ Starred [go-json-experiment/json](https://github.com/go-json-experiment/json)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
