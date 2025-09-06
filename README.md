@@ -9,8 +9,5 @@
   <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [tamagui/tamagui](https://github.com/tamagui/tamagui)<br>
 2. ⭐ Starred [callstack/react-native-paper](https://github.com/callstack/react-native-paper)<br>
-3. ⭐ Starred [jonsafari/mocp](https://github.com/jonsafari/mocp)<br>
-4. ⭐ Starred [orangci/walls-catppuccin-mocha](https://github.com/orangci/walls-catppuccin-mocha)<br>
-5. ⭐ Starred [zhichaoh/catppuccin-wallpapers](https://github.com/zhichaoh/catppuccin-wallpapers)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
