@@ -7,7 +7,5 @@
 <h3 align=center>Recent Activity 🪴</h3>
 <p align=center>
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tamagui/tamagui](https://github.com/tamagui/tamagui)<br>
-2. ⭐ Starred [callstack/react-native-paper](https://github.com/callstack/react-native-paper)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
